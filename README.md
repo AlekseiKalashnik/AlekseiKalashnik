@@ -1,4 +1,4 @@
-Hi 👋 My name is Alex Kalashnik
+Hi 👋 My name is Aleksei Kalashnik
 ===============================
 
 \------------- Java Developer ---------------
