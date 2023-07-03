@@ -1,4 +1,4 @@
-Hi <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" alt="Coder GIF" width="80">
+Hi <img src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" alt="Coder GIF" width="70">
 ===============================
 My name is Aleksei Kalashnik
 ===============================
