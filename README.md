@@ -13,6 +13,6 @@ My name is Aleksei Kalashnik
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
+![Codewars](https://github.r2v.ch/codewars?user=JavaSunrise&theme=light&hide_clan=true)
 
 <h4></h4>
